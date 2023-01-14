@@ -15,8 +15,7 @@ NOTE: I only know python so do not contact me if you want me to help regarding a
 Link to the original thread in PRO forums where I have listed all my sources as well: https://pokemonrevolution.net/forum/topic/172861-nqr-bot-not-quite-reborn/
 
 Developers:
-Sachin
-Angreifer
+Sachin & Angreifer
 
 Art:
 Ashwee
